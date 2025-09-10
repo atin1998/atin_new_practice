@@ -140,5 +140,5 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Your custom apps go here
     'new_idea', # Example of a custom app
-    'another_app.apps.AnotherAppConfig', # Example with AppConfig
+    # 'another_app.apps.AnotherAppConfig', # Example with AppConfig
 ]
